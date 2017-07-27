@@ -1,0 +1,3 @@
+key "d87f27270bdea594aca4c897c8681244b29d3477eadb146b168b50f597e236a2";
+remote ipv4 "gw08.ffeu.de" port 53894;
+float yes;
